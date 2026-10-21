@@ -1,0 +1,14 @@
+Enter score for student 1: 76.5
+Enter score for student 2: 82.3
+Enter score for student 3: 62.1
+Enter score for student 4: 88.4
+Enter score for student 5: 65.9
+Enter score for student 6: 67.9
+Enter score for student 7: 90.1
+Enter score for student 8: 55.3
+Enter score for student 9: 73.7
+Enter score for student 10: 78.6
+Highest score: 90.1
+Lowest score: 55.3
+Students passed: 9
+Students failed: 1

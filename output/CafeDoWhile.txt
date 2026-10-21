@@ -1,0 +1,13 @@
+Enter customer name (type 'cancel' to exit): Rena
+Coffee quantity: 3
+Tea quantity: 0
+Bread quantity: 1
+Total amount to pay: Rp 56000
+Enter customer name (type 'cancel' to exit): Yuni
+Coffee quantity: 1
+Tea quantity: 4
+Bread quantity: 2
+Total amount to pay: Rp 80000
+Enter customer name (type 'cancel' to exit): CANCEL
+Transaction canceled.
+All transactions completed.

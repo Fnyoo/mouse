@@ -1,0 +1,16 @@
+Enter the number of students: 5
+Enter score for student 1: 85
+The grade of student 1 is A
+Well done, keep up the good work!
+Enter score for student 2: 63
+The grade of student 2 is C+
+Enter score for student 3: 101
+Invalid score. Please enter a valid score!
+Enter score for student 3: 23
+The grade of student 3 is E
+Enter score for student 4: -15
+Invalid score. Please enter a valid score!
+Enter score for student 4: 70
+The grade of student 4 is B
+Enter score for student 5: 55
+The grade of student 5 is C

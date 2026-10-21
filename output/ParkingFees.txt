@@ -1,0 +1,9 @@
+Vehicle type: 1=Car, 2=Motorcycle, 0=Finish
+Enter vehicle type: 1
+Enter parking hours: 3
+Parking fee: Rp 9000
+Enter vehicle type: 2
+Enter parking hours: 2
+Parking fee: Rp 4000
+Enter vehicle type: 0
+Total parking fees: Rp 13000

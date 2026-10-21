@@ -1,0 +1,10 @@
+Enter ticket quantity per customer (0 to finish).
+Ticket quantity: 3
+Customer payment: Rp 150000 (discount 0%)
+Ticket quantity: 5
+Customer payment: Rp 225000 (discount 10%)
+Ticket quantity: 12
+Customer payment: Rp 510000 (discount 15%)
+Ticket quantity: 0
+Total tickets sold: 20
+Total ticket sales revenue: Rp 885000
